@@ -1,0 +1,64 @@
+397
+Time normal: 167
+397
+Time normal: 46
+397
+Time normal: 44
+397
+Time normal: 45
+397
+Time normal: 45
+Total hits: 397
+Time ES: 82
+Total hits: 397
+Time ES: 9
+Total hits: 397
+Time ES: 11
+Total hits: 397
+Time ES: 8
+Total hits: 397
+Time ES: 8
+
+======SEARCH LIKE======
+10
+Time normal: 2958
+10
+Time normal: 2574
+10
+Time normal: 2581
+10
+Time normal: 2574
+10
+Time normal: 2562
+Total record: 1537
+Time ES: 216
+Total record: 1537
+Time ES: 142
+Total record: 1537
+Time ES: 131
+Total record: 1537
+Time ES: 126
+Total record: 1537
+Time ES: 125
+
+======SEARCH EQUAL======
+1
+Time normal: 107
+1
+Time normal: 99
+1
+Time normal: 102
+1
+Time normal: 107
+1
+Time normal: 113
+Total record: 1
+Time ES: 10
+Total record: 1
+Time ES: 7
+Total record: 1
+Time ES: 7
+Total record: 1
+Time ES: 6
+Total record: 1
+Time ES: 7
