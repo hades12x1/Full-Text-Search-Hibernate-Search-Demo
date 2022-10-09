@@ -1,6 +1,7 @@
-#Full-Text Search with Hibernate Search and Spring Boot
+## Full-Text Search with Hibernate Search and Spring Boot ##
 
-###Description
+
+Description:
 
     - Data example: data.sql
     - Search example: TestService.java
@@ -16,10 +17,11 @@
     - Tool manager: Elasticvue(Extension Browser)
          + Disable Chorme or CORS ES: https://stackoverflow.com/questions/37384380/cross-origin-request-blocked-elasticsearch
 
-###Reference
+Reference:
+
     - https://docs.jboss.org/hibernate/search/6.0/reference/en-US/pdf/hibernate_search_reference.pdf
     - https://reflectoring.io/hibernate-search/#indexedembedded-and-containedin
 
-###Author
-    - ChuyenNS
-    - nchuyen128@gmail.com
+Author:
+
+    - ChuyenNS(nchuyen128@gmail.com)
