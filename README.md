@@ -5,7 +5,7 @@ Description:
 
     - Data example: data.sql
     - Search example: TestService.java
-    - Result: TestController.java, index-detail-es.png
+    - Result: TestController.java, index-detail-es.png, log-result.txt
         + Nested: Time normal: 167ms, Time ES: 11ms
         + Like: Time normal: 2574ms, Time ES: 131ms
         + Equal: Time normal: 99ms, Time ES: 10ms
